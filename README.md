@@ -3,7 +3,7 @@ This is a course assignment repository
 
 ## Assignment Specs and Assumptions
 
-Job Postings Location: Caanda and USA
+Job Postings Location: Canada and USA
 
 Job Title Tags
 - Data Scientist
